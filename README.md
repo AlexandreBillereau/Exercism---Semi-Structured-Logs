@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # Semi Structured Logs
 
 Welcome to Semi Structured Logs on Exercism's Rust Track.
